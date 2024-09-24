@@ -46,7 +46,7 @@ const plugins = [
   {
     resolve: `@medusajs/file-local`,
     options: {
-      upload_dir: 'uploads/images',
+      upload_dir: 'uploads',
       backend_url: 'https://monkfish-app-7s3zt.ondigitalocean.app/'
     },
   },
