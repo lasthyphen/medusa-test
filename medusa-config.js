@@ -47,7 +47,7 @@ const plugins = [
     resolve: `@medusajs/file-local`,
     options: {
       upload_dir: 'uploads/images',
-      backend_url: 'http://localhost:9000'
+      backend_url: 'https://monkfish-app-7s3zt.ondigitalocean.app/'
     },
   },
   {
