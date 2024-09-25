@@ -1,0 +1,161 @@
+diff --git a/node_modules/@medusajs/admin-ui/ui/public/locales/en/translation.json b/node_modules/@medusajs/admin-ui/ui/public/locales/en/translation.json
+index 7eae69f..073298b 100644
+--- a/node_modules/@medusajs/admin-ui/ui/public/locales/en/translation.json
++++ b/node_modules/@medusajs/admin-ui/ui/public/locales/en/translation.json
+@@ -1,5 +1,5 @@
+ {
+-  "back-button-go-back": "Go back",
++  "back-button-go-back": "Go back Mimo",
+   "filter-menu-trigger": "View",
+   "filter-menu-clear-button": "Clear",
+   "filter-menu-select-item-default-placeholder": "Select filter",
+@@ -23,7 +23,7 @@
+   "analytics-preferences-your-preferences-were-successfully-updated": "Your preferences were successfully updated",
+   "analytics-preferences-error": "Error",
+   "analytics-preferences-help-us-get-better": "Help us get better",
+-  "analytics-preferences-disclaimer": "To create the most compelling e-commerce experience we would like to gain insights in how you use Medusa. User insights allow us to build a better, more engaging, and more usable products. We only collect data for product improvements. Read what data we gather in our",
++  "analytics-preferences-disclaimer": "To create the most compelling e-commerce experience we would like to gain insights in how you use Faha. User insights allow us to build a better, more engaging, and more usable products. We only collect data for product improvements. Read what data we gather in our",
+   "analytics-preferences-documentation": "documentation",
+   "analytics-preferences-please-enter-a-valid-email": "Please enter a valid email",
+   "analytics-preferences-continue": "Continue",
+@@ -114,7 +114,7 @@
+   "invite-modal-cancel": "Cancel",
+   "invite-modal-invite": "Invite",
+   "login-card-no-match": "These credentials do not match our records.",
+-  "login-card-log-in-to-medusa": "Log in to Medusa",
++  "login-card-log-in-to-medusa": "Log in to Faha Mimo",
+   "login-card-email": "Email",
+   "login-card-password": "Password",
+   "login-card-forgot-your-password": "Forgot your password?",
+@@ -164,7 +164,7 @@
+   "product-media-section-file-service-not-configured": "You might not have a file service configured. Please contact your administrator",
+   "product-media-section-error": "Error",
+   "product-media-section-media": "Media",
+-  "product-media-section-add-images-to-your-product": "Add images to your product.",
++  "product-media-section-add-images-to-your-product": "Mimo add images of your suits here",
+   "product-media-section-cancel": "Cancel",
+   "product-media-section-save-and-close": "Save and close",
+   "product-raw-section-raw-gift-card": "Raw Gift Card",
+@@ -176,7 +176,7 @@
+   "product-thumbnail-section-upload": "Upload",
+   "product-thumbnail-section-upload-thumbnail-error": "Something went wrong while trying to upload the thumbnail.",
+   "product-thumbnail-section-you-might-not-have-a-file-service-configured-please-contact-your-administrator": "You might not have a file service configured. Please contact your administrator",
+-  "product-thumbnail-section-upload-thumbnail": "Upload Thumbnail",
++  "product-thumbnail-section-upload-thumbnail": "Upload Thumbnail Mimo",
+   "product-thumbnail-section-thumbnail": "Thumbnail",
+   "product-thumbnail-section-used-to-represent-your-product-during-checkout-social-sharing-and-more": "Used to represent your product during checkout, social sharing and more.",
+   "product-thumbnail-section-cancel": "Cancel",
+@@ -195,13 +195,13 @@
+   "edit-variants-modal-edit-variant": "Edit Variant",
+   "edit-variants-modal-update-success": "Variants were successfully updated",
+   "edit-variants-modal-edit-variants": "Edit Variants",
+-  "edit-variants-modal-product-variants": "Product variants",
++  "edit-variants-modal-product-variants": "Clothes variants",
+   "edit-variants-modal-variant": "Variant",
+   "edit-variants-modal-inventory": "Inventory",
+   "product-variants-section-edit-prices": "Edit Prices",
+   "product-variants-section-edit-variants": "Edit Variants",
+   "product-variants-section-edit-options": "Edit Options",
+-  "product-variants-section-product-variants": "Product variants",
++  "product-variants-section-product-variants": "Clothes variants",
+   "product-variants-section-error": "Error",
+   "product-variants-section-failed-to-update-product-options": "Failed to update product options",
+   "product-variants-section-success": "Success",
+@@ -482,10 +482,10 @@
+   "price-overrides-show-regions": "Show regions",
+   "product-table-products": "Products",
+   "product-table-copy-success": "Success",
+-  "product-table-copy-created-a-new-product": "Created a new product",
++  "product-table-copy-created-a-new-product": "Well done mimo. Created a new product",
+   "product-table-copy-error": "Error",
+   "product-table-delete-product": "Delete Product",
+-  "product-table-confirm-delete": "Are you sure you want to delete this product?",
++  "product-table-confirm-delete": "Are you sure you want to delete this mimo?",
+   "product-table-edit": "Edit",
+   "product-table-unpublish": "Unpublish",
+   "product-table-publish": "Publish",
+@@ -543,7 +543,7 @@
+   "search-modal-to-select-and": "to select, and",
+   "search-modal-to-search-anytime": "to search anytime",
+   "templates-settings": "Settings",
+-  "templates-manage-the-settings-for-your-medusa-store": "Manage the settings for your Medusa store",
++  "templates-manage-the-settings-for-your-medusa-store": "Manage the settings for your Faha store",
+   "transfer-orders-modal-info": "Info",
+   "transfer-orders-modal-customer-is-already-the-owner-of-the-order": "Customer is already the owner of the order",
+   "transfer-orders-modal-success": "Success",
+@@ -906,7 +906,7 @@
+   "gift-cards-create-publish": "Create & Publish",
+   "gift-cards-successfully-updated-gift-card": "Successfully updated Gift Card",
+   "gift-cards-gift-cards": "Gift Cards",
+-  "gift-cards-manage": "Manage the Gift Cards of your Medusa store",
++  "gift-cards-manage": "Manage the Gift Cards of your Faha store",
+   "gift-cards-are-you-ready-to-sell-your-first-gift-card": "Are you ready to sell your first Gift Card?",
+   "gift-cards-no-gift-card-has-been-added-yet": "No Gift Card has been added yet.",
+   "gift-cards-history": "History",
+@@ -1145,7 +1145,7 @@
+   "refund-error": "Error",
+   "refund-create-a-refund": "Create a refund",
+   "refund-attention": "Attention!",
+-  "refund-system-payment-disclaimer": "One or more of your payments is a system payment. Be aware, that captures and refunds are not handled by Medusa for such payments.",
++  "refund-system-payment-disclaimer": "One or more of your payments is a system payment. Be aware, that captures and refunds are not handled by Faha for such payments.",
+   "refund-details": "Details",
+   "refund-cannot-refund-more-than-the-orders-net-total": "Cannot refund more than the order's net total.",
+   "refund-discount": "Discount",
+@@ -1794,7 +1794,7 @@
+   "settings-manage-your-business-details": "Manage your business details",
+   "settings-general": "General",
+   "settings-store-name": "Store name",
+-  "settings-medusa-store": "Medusa Store",
++  "settings-medusa-store": "Faha Store",
+   "settings-advanced-settings": "Advanced settings",
+   "settings-swap-link-template": "Swap link template",
+   "settings-draft-order-link-template": "Draft order link template",
+@@ -1808,14 +1808,14 @@
+   "edit-user-information-submit-and-close": "Submit and close",
+   "personal-information-back-to-settings": "Back to Settings",
+   "personal-information-personal-information": "Personal information",
+-  "personal-information-manage-your-medusa-profile": "Manage your Medusa profile",
++  "personal-information-manage-your-medusa-profile": "Manage your Faha profile",
+   "personal-information-language-settings-title": "Language",
+-  "personal-information-language-settings-description": "Adjust the language of Medusa Admin",
++  "personal-information-language-settings-description": "Adjust the language of Faha Admin",
+   "personal-information-language-settings-help-us-translate": "Help us translate",
+   "personal-information-usage-insights-title": "Usage insights",
+   "usage-insights-disabled": "Disabled",
+   "usage-insights-active": "Active",
+-  "usage-insights-share-usage-insights-and-help-us-improve-medusa": "Share usage insights and help us improve Medusa",
++  "usage-insights-share-usage-insights-and-help-us-improve-medusa": "Share usage insights and help us improve Faha",
+   "usage-insights-edit-preferences": "Edit preferences",
+   "usage-insights-success": "Success",
+   "usage-insights-your-information-was-successfully-updated": "Your information was successfully updated",
+@@ -1982,7 +1982,7 @@
+   "taxes-region-tax-settings-were-successfully-updated": "Region tax settings were successfully updated.",
+   "taxes-tax-provider": "Tax Provider",
+   "taxes-calculate-taxes-automatically": "Calculate taxes automatically?",
+-  "taxes-automatically-apply-tax-calculations-to-carts": "When checked Medusa will automatically apply tax calculations to Carts in this Region. When unchecked you will have to manually compute taxes at checkout. Manual taxes are recommended if using a 3rd party tax provider to avoid performing too many requests",
++  "taxes-automatically-apply-tax-calculations-to-carts": "When checked Faha will automatically apply tax calculations to Carts in this Region. When unchecked you will have to manually compute taxes at checkout. Manual taxes are recommended if using a 3rd party tax provider to avoid performing too many requests",
+   "taxes-apply-tax-to-gift-cards": "Apply tax to gift cards?",
+   "taxes-apply-taxes-to-gift-cards": "When checked taxes will be applied to gift cards on checkout. In some contries tax regulations require that taxes are applied to gift cards on purchase.",
+   "taxes-search-products": "Search Products..",
+@@ -2005,7 +2005,7 @@
+   "users-invite-users": "Invite Users",
+   "users-back-to-settings": "Back to settings",
+   "users-the-team": "The Team",
+-  "users-manage-users-of-your-medusa-store": "Manage users of your Medusa Store",
++  "users-manage-users-of-your-medusa-store": "Manage users of your Faha Store",
+   "users-count_one": "{{count}}",
+   "users-count_other": "{{count}}"
+ }
+diff --git a/node_modules/@medusajs/admin-ui/ui/src/components/templates/login-layout.tsx b/node_modules/@medusajs/admin-ui/ui/src/components/templates/login-layout.tsx
+index acc2bb4..c1cd858 100644
+--- a/node_modules/@medusajs/admin-ui/ui/src/components/templates/login-layout.tsx
++++ b/node_modules/@medusajs/admin-ui/ui/src/components/templates/login-layout.tsx
+@@ -39,7 +39,7 @@ const SVG = () => {
+       xmlns="http://www.w3.org/2000/svg"
+     >
+       <path
+-        d="M32.4895 7.84367L24.3377 3.15373C21.6705 1.61542 18.4022 1.61542 15.7351 3.15373L7.5457 7.84367C4.91608 9.38197 3.26318 12.2335 3.26318 15.2725V24.6899C3.26318 27.7665 4.91608 30.5805 7.5457 32.1188L15.6975 36.8463C18.3647 38.3846 21.6329 38.3846 24.3001 36.8463L32.4519 32.1188C35.1191 30.5805 36.7344 27.7665 36.7344 24.6899V15.2725C36.8095 12.2335 35.1566 9.38197 32.4895 7.84367ZM20.0176 28.3669C15.397 28.3669 11.6404 24.6149 11.6404 20C11.6404 15.3851 15.397 11.6331 20.0176 11.6331C24.6382 11.6331 28.4323 15.3851 28.4323 20C28.4323 24.6149 24.6758 28.3669 20.0176 28.3669Z"
++        d="M7.31931 7.39994C7.09022 7.49654 6.89548 7.65982 6.76042 7.86857C6.32128 8.54725 6.34701 9.32393 6.66416 9.90627C6.91977 10.3756 7.66195 11.0999 8.66809 10.734C8.70006 10.7224 8.73153 10.7095 8.76243 10.6952C8.94843 10.6097 9.1188 10.5312 9.27544 10.4591L9.27789 10.4579L9.27878 10.4575L9.27999 10.457C10.53 9.88123 10.9048 9.70863 11.3877 9.54042C11.6793 9.43885 11.985 9.3466 12.479 9.19755C12.676 9.13811 12.9029 9.06964 13.1709 8.98794C13.0242 11.5138 12.9599 14.1132 12.9599 17.1973V17.2014C12.9599 18.1983 12.9599 19.2562 12.9734 20.398C10.5322 20.5074 8.07153 20.6896 5.30431 20.9438C5.27411 20.9466 5.24403 20.9505 5.21411 20.9554C4.61375 21.0554 4.10025 21.5227 4.01284 22.1938C3.94691 22.6999 4.14565 23.1213 4.36271 23.4078C4.41513 23.4894 4.48115 23.5751 4.56601 23.66C4.58165 23.6756 4.59733 23.6906 4.61292 23.7049C4.62077 23.7146 4.62815 23.7234 4.63495 23.7313C4.649 23.7478 4.66202 23.7622 4.6735 23.7745C4.67927 23.7807 4.68476 23.7865 4.68992 23.7918L4.69743 23.7995L4.70101 23.8032L4.70363 23.8058L4.70448 23.8067C4.77104 23.8733 4.84498 23.9322 4.92488 23.9822C5.1089 24.0972 5.33974 24.2198 5.59525 24.2991C5.73463 24.3423 5.95963 24.3975 6.22461 24.386C8.40631 25.0594 11.185 27.0677 12.6766 29.5632C12.7026 29.6066 12.7311 29.6484 12.7621 29.6882C12.7992 29.7359 12.8336 29.7949 12.927 29.9728L12.9355 29.9889C12.9779 30.0698 13.0312 30.1715 13.0977 30.2852C13.1157 30.9233 13.1685 32.0531 13.241 33.1499C13.2865 33.8391 13.341 34.5346 13.4019 35.1056C13.4323 35.3902 13.4655 35.6562 13.5019 35.8809C13.5211 35.9988 13.5473 36.1482 13.5861 36.2982C13.6011 36.4923 13.6621 36.6848 13.7709 36.8586C13.9319 37.116 14.163 37.3727 14.421 37.5717C14.6187 37.7242 15.1117 38.0635 15.7479 37.9896C16.1497 37.9446 16.4352 37.7388 16.6044 37.5682C16.7709 37.4002 16.8762 37.2175 16.9422 37.0819C17.0743 36.8105 17.1546 36.5041 17.2083 36.2335C17.3193 35.6736 17.3712 34.9729 17.3712 34.2683C17.3712 33.5029 17.3094 32.6694 17.1768 31.906C17.0725 31.3052 16.9098 30.6586 16.6464 30.114L16.5674 23.7608L22.7915 23.6789C23.3334 23.679 23.8919 23.6865 24.4792 23.6944C25.1074 23.7028 25.7665 23.7117 26.4532 23.7117C26.8038 23.7117 27.5572 23.5735 27.8659 22.8018C28.1448 22.1044 27.8048 21.5306 27.5533 21.2379C27.3592 20.9738 27.1163 20.7566 26.8664 20.597C26.6088 20.4324 26.2198 20.2506 25.7652 20.2506H23.2749L23.2648 20.2506L16.5276 20.3059C16.5545 16.3536 16.5919 12.8521 16.9738 7.78613C18.7794 7.24952 20.3711 6.81073 21.6238 6.46909C24.413 5.76444 26.8892 5.39569 28.8451 5.39569C31.3741 5.39569 32.6573 6.01119 33.1213 6.72446C33.4868 7.35328 34.277 7.62395 34.9603 7.29861C35.7268 6.93362 35.8542 6.13807 35.7688 5.62425C35.7633 5.59162 35.7566 5.55922 35.7486 5.52713C35.3639 3.98837 34.1438 3.10834 32.8422 2.63237C31.5472 2.15885 29.9717 2 28.4192 2C25.8086 2 22.9553 2.44355 20.8821 2.95336C20.8737 2.95543 20.8653 2.95758 20.8569 2.95982L20.8213 2.96938C19.785 3.24739 18.4463 3.60652 16.9771 4.04497C16.8291 3.87902 16.6473 3.72989 16.4333 3.61194C15.8709 3.25476 15.0866 3.01109 14.3477 3.45451C14.1733 3.55917 14.0273 3.70516 13.9227 3.87958C13.7288 4.20267 13.6192 4.55797 13.5454 4.8732C13.5249 4.96044 13.5059 5.05042 13.4881 5.14255C10.0689 6.23977 9.92416 6.30083 7.65075 7.26012L7.31931 7.39994ZM13.6535 36.5286C13.6588 36.5444 13.6562 36.5383 13.6493 36.516C13.6474 36.5096 13.6445 36.502 13.642 36.4929L13.6436 36.4981L13.6493 36.516L13.6535 36.5286ZM13.6034 23.3747C13.2366 23.3916 10.5272 23.6033 10.1534 23.6245C10.5467 23.9283 13.4304 26.5456 13.7402 27.1651L13.6034 23.3747Z"
+         fill="url(#paint0_linear_7693_9181)"
+       />
+       <defs>
