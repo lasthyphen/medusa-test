@@ -1656,9 +1656,18 @@ index fa55c31..cab64b0 100644
            <div>
              <SigninInput
 diff --git a/node_modules/@medusajs/admin-ui/ui/src/components/organisms/sidebar/index.tsx b/node_modules/@medusajs/admin-ui/ui/src/components/organisms/sidebar/index.tsx
-index 74f06c4..b66e1bc 100644
+index 74f06c4..c678e94 100644
 --- a/node_modules/@medusajs/admin-ui/ui/src/components/organisms/sidebar/index.tsx
 +++ b/node_modules/@medusajs/admin-ui/ui/src/components/organisms/sidebar/index.tsx
+@@ -47,7 +47,7 @@ const Sidebar: React.FC = () => {
+     <div className="min-w-sidebar max-w-sidebar bg-gray-0 border-grey-20 py-base px-base h-screen overflow-y-auto border-r">
+       <div className="h-full">
+         <div className="flex justify-between px-2">
+-          <div className="rounded-circle flex h-8 w-8 items-center justify-center border border-solid border-gray-300">
++          <div className="">
+             <UserMenu />
+           </div>
+         </div>
 @@ -133,6 +133,44 @@ const Sidebar: React.FC = () => {
              triggerHandler={triggerHandler}
              text={t("sidebar-settings", "Settings")}
